@@ -1,9 +1,7 @@
-# RestaurantApp
+# Gestion Restaurant 🍽️
 
-<p align="center">
-  <!-- Remplacez le lien ci-dessous par votre logo -->
-  <img src="assets/logo.png" alt="Logo RestaurantApp" width="180"/>
-</p>
+<img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/24824782-f371-43e0-8cb0-fd03e86155ca" />
+
 
 ---
 
@@ -25,7 +23,6 @@ Cette application de bureau offre une interface graphique intuitive pour :
 
 - Gérer le catalogue des plats (ajout, modification, suppression, filtrage par catégorie)
 - Enregistrer et suivre les commandes des clients
-- Calculer les recettes générées par plat et par période
 - Identifier les plats les plus populaires
 - Visualiser le chiffre d'affaires sous forme de graphique
 
@@ -53,19 +50,18 @@ Cette application de bureau offre une interface graphique intuitive pour :
 
 
 
-<p align="center">
-  <img src="assets/use_case_diagram.png" alt="Diagramme de cas d'utilisation" width="700"/>
-</p>
+<img width="1187" height="822" alt="Use Case" src="https://github.com/user-attachments/assets/abd7c77e-2baa-4001-8c9c-46a821b12aaf" />
+
+
+
 
 ---
 
 ## Diagramme de classes
 
 
+<img width="948" height="730" alt="CLASSE" src="https://github.com/user-attachments/assets/306cb9b5-b564-4f08-af51-0bb1d7c9f17c" />
 
-<p align="center">
-  <img src="assets/class_diagram.png" alt="Diagramme de classes" width="700"/>
-</p>
 
 ---
 
@@ -130,16 +126,21 @@ L'application suit une architecture trois couches :
 **Couche Service** (`service`) : contient la logique métier de l'application (calcul des recettes, identification des plats populaires, validation des données).
 
 **Couche DAO** (`dao`) : contient les classes d'accès aux données. Elle assure la communication avec la base de données MySQL via JDBC.
-```
 
-```
 
----
+<img width="1266" height="567" alt="Architecture en couches drawio" src="https://github.com/user-attachments/assets/da619ce2-3b16-423d-b079-dee2d2c54d4a" />
+
+
+
 
 ## Vidéo : Installation et désinstallation
 
 
-[![Installation](assets/thumbnail_install.png)](https://lien-vers-votre-video-installation)
+
+
+
+https://github.com/user-attachments/assets/a5c44315-208b-4dfd-a84f-0def35e1d941
+
 
 
 ---
@@ -148,7 +149,11 @@ L'application suit une architecture trois couches :
 
 
 
-[![Démonstration](assets/thumbnail_demo.png)](https://lien-vers-votre-video-demo)
+
+
+https://github.com/user-attachments/assets/62bed4d1-4134-4536-92e6-6ca3abe240c5
+
+
 
 
 
