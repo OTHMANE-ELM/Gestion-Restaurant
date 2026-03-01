@@ -5,19 +5,19 @@
 
 ---
 
-## Contexte
+## 🌍 Contexte
 
 Dans le secteur de la restauration, la gestion manuelle des commandes et des plats entraîne souvent des erreurs, une perte de temps et un manque de visibilité sur les performances. Ce projet s'inscrit dans un contexte où les petits établissements ont besoin d'un outil simple et efficace pour centraliser leurs opérations quotidiennes.
 
 ---
 
-## Problématique
+## ❓ Problématique
 
 Comment permettre à un restaurant de gérer efficacement ses plats, ses commandes et ses clients, tout en ayant une vue claire sur les recettes générées et les plats les plus demandés ?
 
 ---
 
-## Solution et objectifs
+## ✅ Solution et objectifs
 
 Cette application de bureau offre une interface graphique intuitive pour :
 
@@ -28,7 +28,7 @@ Cette application de bureau offre une interface graphique intuitive pour :
 
 ---
 
-## Technologies utilisées
+## 🛠️ Technologies utilisées
 
 | Technologie | Rôle |
 |---|---|
@@ -46,18 +46,19 @@ Cette application de bureau offre une interface graphique intuitive pour :
 
 ---
 
-## Diagramme de cas d'utilisation
+## 👤 Diagramme de cas d'utilisation
 
 
 
-<img width="1187" height="822" alt="Use Case" src="https://github.com/user-attachments/assets/abd7c77e-2baa-4001-8c9c-46a821b12aaf" />
+
+<img width="1038" height="617" alt="UseCase" src="https://github.com/user-attachments/assets/d115939c-ed44-48b8-800d-eef9c52cedef" />
 
 
 
 
 ---
 
-## Diagramme de classes
+## 🗂️ Diagramme de classes
 
 
 <img width="948" height="730" alt="CLASSE" src="https://github.com/user-attachments/assets/306cb9b5-b564-4f08-af51-0bb1d7c9f17c" />
@@ -65,7 +66,7 @@ Cette application de bureau offre une interface graphique intuitive pour :
 
 ---
 
-## Description de la base de données
+## 🗄️ Description de la base de données
 
 La base de données comprend quatre tables principales :
 
@@ -79,7 +80,7 @@ La base de données comprend quatre tables principales :
 
 ---
 
-## Scripts SQL
+## 📜 Scripts SQL
 ```sql
 CREATE DATABASE IF NOT EXISTS restaurant_db;
 USE restaurant_db;
@@ -117,7 +118,7 @@ CREATE TABLE Commande (
 
 ---
 
-## Architecture en couches
+## 🏗️ Architecture en couches
 
 L'application suit une architecture trois couches :
 
@@ -133,7 +134,7 @@ L'application suit une architecture trois couches :
 
 
 
-## Vidéo : Installation et désinstallation
+## 🎬 Vidéo : Installation et désinstallation
 
 
 
@@ -145,7 +146,7 @@ https://github.com/user-attachments/assets/a5c44315-208b-4dfd-a84f-0def35e1d941
 
 ---
 
-## Vidéo : Démonstration de l'application
+## 🎥 Vidéo : Démonstration de l'application
 
 
 
@@ -158,3 +159,11 @@ https://github.com/user-attachments/assets/62bed4d1-4134-4536-92e6-6ca3abe240c5
 
 
 ---
+
+
+## 👥 Contributeurs
+
+| Nom | GitHub |
+|---|---|
+| Othmane EL MATLINI | [@OTHMANE-ELM](https://github.com/OTHMANE-ELM) |
+| Mohammed Amine EL BOUKBIRI | [@mohammed-amine-elboukbiri](https://github.com/mohammed-amine-elboukbiri) |
