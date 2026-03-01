@@ -3,27 +3,23 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/GestionCommande.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/Connexion.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/presentation/ClientTest.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/service/CommandeService.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/presentation/PlatTest.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/service/ClientService.java</file>
             <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/Authentification.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/CommandeDao.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/model/Plat.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/service/PlatService.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/Main.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/GestionPlats.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/GestionCommande.java</file>
             <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/model/Commande.java</file>
             <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/SearchByCategorie.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/GestionPlats.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/presentation/CommandeTest.java</file>
             <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/ClientDao.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/ChiffreAffaires.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/model/Client.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/Idao.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/Main.java</file>
-            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/PlatsPopulaires.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/CommandeDao.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/Connexion.java</file>
             <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/PlatDao.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/model/Client.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/model/Plat.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/presentation/ClientTest.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/presentation/PlatTest.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/service/CommandeService.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/dao/Idao.java</file>
+            <file>file:/C:/Users/ALI/Desktop/S6/Architectures%20repartis/Projet%201%20SWING+JDBC/Gestion-Restaurant/src/forms/PlatsPopulaires.java</file>
         </group>
     </open-files>
 </project-private>
